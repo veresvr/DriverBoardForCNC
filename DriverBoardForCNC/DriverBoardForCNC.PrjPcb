@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for DriverBoardForCNC
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -133,7 +133,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for DriverBoardForCNC
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -429,9 +429,9 @@ Configuration1_Item4=Footprint=True|Comment=True
 Configuration1_Name5=SortOrder
 Configuration1_Item5=Designator=Up
 Configuration1_Name6=VisibleOrder
-Configuration1_Item6=Designator=120|Description=227|Value=113|Manufacturer_Part_Number=157|Footprint=120|Quantity=80|Comment=100
+Configuration1_Item6=Designator=120|Description=227|Value=113|Manufacturer_Part_Number=157|Footprint=120|Quantity=80|CHIPIDIP-code=100|Manufacturer=100
 Configuration1_Name7=VisibleOrder_Flat
-Configuration1_Item7=Designator=120|Description=227|Value=113|Manufacturer_Part_Number=157|Footprint=120|Quantity=80|Comment=100
+Configuration1_Item7=Designator=120|Description=227|Value=113|Manufacturer_Part_Number=157|Footprint=120|Quantity=80|CHIPIDIP-code=100|Manufacturer=100
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
@@ -1110,44 +1110,44 @@ UpdateVariants=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=DriverBoardForCNC.SCHLIB
-ComponentDesignItemID0=
+ComponentDesignItemID0=ACS712ELCTR-05B
 ComponentSymbolReference0=ACS712ELCTR-05B
 ComponentUpdate0=0
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
 ComponentLibraryIdentifier1=DriverBoardForCNC.SCHLIB
-ComponentDesignItemID1=
-ComponentSymbolReference1=LV7829
-ComponentUpdate1=0
+ComponentDesignItemID1=Cap Pol1
+ComponentSymbolReference1=Cap Pol1
+ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
 ComponentLibraryIdentifier2=DriverBoardForCNC.SCHLIB
-ComponentDesignItemID2=
-ComponentSymbolReference2=SNx4HC595
+ComponentDesignItemID2=LV7829
+ComponentSymbolReference2=LV7829
 ComponentUpdate2=0
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
 ComponentLibraryIdentifier3=DriverBoardForCNC.SCHLIB
-ComponentDesignItemID3=Cap Pol1
-ComponentSymbolReference3=Cap Pol1
-ComponentUpdate3=1
+ComponentDesignItemID3=NMOS-2
+ComponentSymbolReference3=NMOS-2
+ComponentUpdate3=0
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
 ComponentLibraryIdentifier4=DriverBoardForCNC.SCHLIB
-ComponentDesignItemID4=NMOS-2
-ComponentSymbolReference4=NMOS-2
+ComponentDesignItemID4=Op Amp
+ComponentSymbolReference4=Op Amp
 ComponentUpdate4=0
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
 ComponentLibraryIdentifier5=DriverBoardForCNC.SCHLIB
-ComponentDesignItemID5=Op Amp
-ComponentSymbolReference5=Op Amp
+ComponentDesignItemID5=RPot
+ComponentSymbolReference5=RPot
 ComponentUpdate5=0
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
 ComponentLibraryIdentifier6=DriverBoardForCNC.SCHLIB
-ComponentDesignItemID6=RPot
-ComponentSymbolReference6=RPot
+ComponentDesignItemID6=SNx4HC595
+ComponentSymbolReference6=SNx4HC595
 ComponentUpdate6=0
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
