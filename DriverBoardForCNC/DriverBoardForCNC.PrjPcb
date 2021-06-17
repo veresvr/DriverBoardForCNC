@@ -156,10 +156,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=C:\Users\ruver\Desktop\DriverBoardForCNC.xls
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
