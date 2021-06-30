@@ -172,6 +172,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for DriverBoardForCNC\DriverBoardForCNC.RUL
 DItemRevisionGUID=
 
+[Parameter1]
+Name=Revision
+Value=2.0
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
