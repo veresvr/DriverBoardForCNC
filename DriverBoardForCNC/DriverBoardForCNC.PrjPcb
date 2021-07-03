@@ -157,19 +157,71 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for DriverBoardForCNC\DriverBoardForCNC.EXTREP
+DocumentPath=Project Outputs for DriverBoardForCNC\NC Drill\DriverBoardForCNC.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for DriverBoardForCNC\DriverBoardForCNC.GTL
+DocumentPath=Project Outputs for DriverBoardForCNC\DriverBoardForCNC.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for DriverBoardForCNC\DriverBoardForCNC.REP
+DocumentPath=Project Outputs for DriverBoardForCNC\Gerber\DriverBoardForCNC.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
+DocumentPath=Project Outputs for DriverBoardForCNC\Gerber\DriverBoardForCNC.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for DriverBoardForCNC\Gerber\DriverBoardForCNC.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for DriverBoardForCNC\Gerber\DriverBoardForCNC.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for DriverBoardForCNC\Gerber\DriverBoardForCNC.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for DriverBoardForCNC\DriverBoardForCNC.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for DriverBoardForCNC\Gerber\DriverBoardForCNC.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for DriverBoardForCNC\Gerber\DriverBoardForCNC.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for DriverBoardForCNC\Gerber\DriverBoardForCNC.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for DriverBoardForCNC\NC Drill\DriverBoardForCNC.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for DriverBoardForCNC\DriverBoardForCNC.REP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for DriverBoardForCNC\Gerber\DriverBoardForCNC.REP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
 DocumentPath=Project Outputs for DriverBoardForCNC\DriverBoardForCNC.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for DriverBoardForCNC\Gerber\DriverBoardForCNC.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for DriverBoardForCNC\NC Drill\DriverBoardForCNC.TXT
 DItemRevisionGUID=
 
 [Parameter1]
