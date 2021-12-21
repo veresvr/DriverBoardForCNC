@@ -2,6 +2,9 @@
 
 Designed for driving 3 stepper motors and laser/shpindle both in PWM mode.
 <img src="https://github.com/veresvr/DriverBoardForCNC/blob/main/preview.png"></img>
+Scheme [DriverBoardForCNCScheme.pdf](https://github.com/veresvr/DriverBoardForCNC/tree/main/DriverBoardForCNCScheme.pdf "Scheme of the project").
+All electronics components are described here [BOMforPCBA.pdf](https://github.com/veresvr/DriverBoardForCNC/tree/main/BOMforPCBA.pdf "BOM of the project").
+
 This board based on LV8729 driver module, which is has its own output connector.
 Pinout of the board is shown below.
 
